@@ -135,12 +135,13 @@ prediction = classifier(image)
 
 ## 📈 Results & Performance
 
-*(Add your model's performance metrics here after training)*
+
 
 Example:
-- **Validation Accuracy**: XX%
-- **Precision**: XX%
-- **Recall**: XX%
+- **Validation Accuracy**: 0.88%
+- - **Validation F1 score**: 0.91%
+- **Precision**: 0.84%
+- **Recall**: 0.99%
 
 ## 🔧 Key Technologies
 
