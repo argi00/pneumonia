@@ -163,21 +163,6 @@ Example:
 - [ ] Integration with DICOM medical imaging format
 - [ ] Cross-validation for robust performance estimation
 
-## 🤝 Contributing
-
-This is an individual project developed for the **ILINA Junior Technical Fellowship** application. Feedback and suggestions are welcome!
-
-## 📝 License
-
-*(Add license information if applicable)*
-
-## 👤 Author
-
-**Yayi make**
-
-- GitHub: [@argi00](https://github.com/argi00)
-- Fellowship Application: [ILINA Junior Technical Fellowship](https://www.ilinaprogram.org/jrf)
-
 ## 🙏 Acknowledgments
 
 - Dataset: [Andrew Marques - Kaggle](https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray)
