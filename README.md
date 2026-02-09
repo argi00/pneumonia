@@ -45,6 +45,11 @@ Pneumonia is one of the leading causes of death in children under five years old
 - **Precision**: Minimize false positives (healthy classified as pneumonia)
 - **Recall**: Minimize false negatives (pneumonia missed) - critical for medical applications
 
+## Limitations and Safety Considerations
+
+This model was trained on a publicly available dataset and may not generalize to different hospitals, imaging devices, or patient populations. Performance may degrade under distribution shift, differences in image acquisition protocols, or demographic differences. Further external validation is required before any real-world clinical deployment. The model should be used strictly for research and educational purposes.
+
+
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
