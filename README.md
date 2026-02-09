@@ -186,4 +186,4 @@ This is an individual project developed for the **ILINA Junior Technical Fellows
 
 ---
 
-**Note**: This project is developed as part of an application to the ILINA Junior Technical Fellowship program, demonstrating practical machine learning skills applied to real-world healthcare challenges.
+
